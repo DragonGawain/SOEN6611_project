@@ -1,3 +1,4 @@
-Uday Jain: 
-Sharun Basnet:
-Craig Spencer Kogan:
+Deliverable 1:
+Uday Jain: Slide preparation, research (legal), initial drafting of GQM
+Sharun Basnet: AI prompts for problems 1 and 2, refinement of metrics
+Craig Spencer Kogan: problem 3 *use case diagram), refinement of GQM
