@@ -1,0 +1,93 @@
+{
+  "files": 63,
+  "totals": {
+    "total": 3788,
+    "blank": 523,
+    "comment_only": 972,
+    "physical": 2293,
+    "logical": 1762
+  },
+  "by_package": {
+    "ibank": {
+      "total": 58,
+      "blank": 7,
+      "comment_only": 8,
+      "physical": 43,
+      "logical": 36,
+      "files": 1
+    },
+    "ibank.atm": {
+      "total": 260,
+      "blank": 38,
+      "comment_only": 64,
+      "physical": 158,
+      "logical": 116,
+      "files": 4
+    },
+    "ibank.device": {
+      "total": 239,
+      "blank": 31,
+      "comment_only": 70,
+      "physical": 138,
+      "logical": 101,
+      "files": 3
+    },
+    "ibank.domain": {
+      "total": 696,
+      "blank": 109,
+      "comment_only": 194,
+      "physical": 393,
+      "logical": 286,
+      "files": 11
+    },
+    "ibank.error": {
+      "total": 197,
+      "blank": 37,
+      "comment_only": 71,
+      "physical": 89,
+      "logical": 65,
+      "files": 8
+    },
+    "ibank.host": {
+      "total": 895,
+      "blank": 105,
+      "comment_only": 276,
+      "physical": 514,
+      "logical": 391,
+      "files": 10
+    },
+    "ibank.i18n": {
+      "total": 150,
+      "blank": 21,
+      "comment_only": 54,
+      "physical": 75,
+      "logical": 55,
+      "files": 3
+    },
+    "ibank.ui": {
+      "total": 1293,
+      "blank": 175,
+      "comment_only": 235,
+      "physical": 883,
+      "logical": 712,
+      "files": 23
+    }
+  },
+  "logical_by_category": {
+    "expression statement": 433,
+    "package or import": 343,
+    "method or constructor header": 315,
+    "jump (return, throw, break, continue)": 208,
+    "field declaration": 202,
+    "local variable declaration": 110,
+    "type declaration": 64,
+    "selection (if, else, switch, case)": 45,
+    "exception (try, catch, finally)": 17,
+    "iteration (for, while, do)": 14,
+    "enum constant": 11
+  },
+  "methods": 300,
+  "readable_methods": 187,
+  "median_score": 0.8195,
+  "mean_score": 0.5949
+}
