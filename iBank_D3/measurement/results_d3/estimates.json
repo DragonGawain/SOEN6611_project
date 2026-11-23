@@ -1,0 +1,83 @@
+{
+  "uaw": 6,
+  "uucw": 90,
+  "uucp": 96,
+  "tfactor": 30.0,
+  "tcf": 0.9,
+  "efactor": 13.0,
+  "ecf": 1.01,
+  "ucp": 87.26,
+  "schneider_winters_count": 3,
+  "hours_per_ucp": 28,
+  "ucp_hours_karner": 1745.3,
+  "ucp_hours": 2443.4,
+  "use_cases": {
+    "Authenticate": [
+      6,
+      "average",
+      10
+    ],
+    "Withdraw cash": [
+      8,
+      "complex",
+      15
+    ],
+    "Cardless withdrawal": [
+      6,
+      "average",
+      10
+    ],
+    "Deposit cash": [
+      5,
+      "average",
+      10
+    ],
+    "Deposit cheque": [
+      4,
+      "average",
+      10
+    ],
+    "Transfer between accounts": [
+      5,
+      "average",
+      10
+    ],
+    "Pay a bill": [
+      5,
+      "average",
+      10
+    ],
+    "View balance": [
+      3,
+      "simple",
+      5
+    ],
+    "Change PIN": [
+      5,
+      "average",
+      10
+    ]
+  },
+  "cocomo_organic": {
+    "pm": 5.74,
+    "hours": 871.9,
+    "tdev_months": 4.86,
+    "staff": 1.18
+  },
+  "cocomo_semidetached": {
+    "pm": 7.6,
+    "hours": 1155.1,
+    "tdev_months": 5.08,
+    "staff": 1.49
+  },
+  "cocomo_embedded": {
+    "pm": 9.75,
+    "hours": 1481.3,
+    "tdev_months": 5.18,
+    "staff": 1.88
+  },
+  "ucp_vs_cocomo_ratio": 2.8,
+  "actual_hours": 180.0,
+  "mre_ucp": 12.574,
+  "mre_cocomo": 3.844
+}

@@ -1,0 +1,20 @@
+{
+  "classes": 64,
+  "methods": 315,
+  "bodies": 300,
+  "system_vg": 400,
+  "max_cc": 6,
+  "mean_cc": 1.27,
+  "cc_hist": {
+    "1": 264,
+    "2": 30,
+    "3": 13,
+    "4": 4,
+    "5": 3,
+    "6": 1
+  },
+  "links": 226,
+  "possible": 4032,
+  "cf": 0.0561,
+  "logical_total": 1762
+}
